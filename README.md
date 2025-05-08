@@ -27,7 +27,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execu
 When a file is blocked, it sets a debugger value that prevents the application from running.
 
 ## Usage
-1. Download the latest release from the [Releases](https://github.com/yourusername/FileBlocker/releases) page
+1. Download the latest release from the [Releases](https://github.com/xKarane/FileBlocker/releases) page
 2. Right-click on `FileBlocker.exe` and select "Run as Administrator"
 3. Enter the filename you want to block/unblock (e.g., `notepad.exe`)
 4. Select the desired action (Block/Unblock)
