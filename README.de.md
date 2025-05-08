@@ -22,7 +22,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execu
 Beim Blockieren wird ein Debugger-Wert gesetzt, der das Ausführen verhindert.
 
 ## Verwendung
-1. Laden Sie die neueste Version von der [Releases](https://github.com/yourusername/FileBlocker/releases) Seite herunter
+1. Laden Sie die neueste Version von der [Releases](https://github.com/xKarane/FileBlocker/releases) Seite herunter
 2. Rechtsklick auf `FileBlocker.exe` und "Als Administrator ausführen" wählen
 3. Geben Sie den Dateinamen ein, den Sie blockieren/freigeben möchten (z. B. `notepad.exe`)
 4. Aktion auswählen (Blockieren/Freigeben)
